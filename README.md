@@ -15,7 +15,10 @@ Covariance matrix computed on daily returns; correlation matrix derived; key fin
 - Black-Scholes implemented; all four Greeks (Delta 0.562, Gamma 0.0022, Theta -0.498, Vega 1.956) computed and interpreted on the real contract.
 - 10,000-path GBM simulation of GS price at expiration, option payoffs averaged and discounted; converged to $78.01 vs. Black-Scholes' $78.00, confirming two independent pricing methods agree.
 
+
 #Author
+Snehil Kejriwal — Economics + B.Tech CSE, BITS Pilani Hyderabad github.com/snehilkejriwal-exp19
+
 
 
 
